@@ -1,0 +1,7 @@
+html flip
+
+transform-style: preserve-3d;
+180deg flip korbe
+
+backface-visibility: hidden;
+card ar ak side hide hobe
